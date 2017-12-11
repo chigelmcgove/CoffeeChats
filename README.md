@@ -2,7 +2,7 @@ This project arose as the company I worked for rapidly grew, and with it a feeli
 
 Requirements
 ------------
-Thanks to the Google Python Quickstart (https://developers.google.com/google-apps/calendar/quickstart/python) getting started made much easier. Almost all prerequisites are in the standard python library, except for pandas and numpy.  Both can be installed via pip. 
+Thanks to the Google Python Quickstart (https://developers.google.com/google-apps/calendar/quickstart/python) getting started is made much easier. Almost all prerequisites are in the standard python library, except for pandas and numpy.  Both can be installed via pip. 
 
 pip install pandas
 
