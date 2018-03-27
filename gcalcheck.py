@@ -33,8 +33,8 @@ def get_credentials():
 
     If nothing has been stored, or if the stored credentials are invalid,
     the OAuth2 flow is completed to obtain the new credentials. This OAuth2 flow is only completed once for us,
-    because we keep the .json file locally. Not sure why you need to reinvent the wheel for this one, security you crazy
-
+    because we keep the .json file locally.
+    
     Returns:
         Credentials, the obtained credential.
     """
